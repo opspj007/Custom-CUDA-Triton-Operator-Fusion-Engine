@@ -1,0 +1,6 @@
+{
+  "name": "Custom CUDA & Triton Operator Fusion Engine",
+  "description": "High-performance fused GPU kernel engine (LayerNorm + Residual Add + SiLU) in OpenAI Triton and CUDA C++ with Nsight Systems & Nsight Compute profiling, roofline analysis, and memory-stall diagnostics on NVIDIA Ada and Ampere GPUs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
